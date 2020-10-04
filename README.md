@@ -1,3 +1,7 @@
+# Tutorial
+
+https://dazelpro.com/article/belajar-logic-dan-conditional-pada-angular-cli
+
 # BelajarAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
